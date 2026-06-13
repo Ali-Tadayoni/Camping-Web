@@ -2,7 +2,7 @@
 
 A simple static responsive website, Shows my HTML & Css Skill
 
-## [Live Demo](https://camping-web-company.netlify.app/)
+## [Live Demo](https://camping-web.alitadayoni.com)
 
 ## Features:
 
