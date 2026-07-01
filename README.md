@@ -1,6 +1,6 @@
 # Camping Web
 
-A simple static responsive website, Shows my HTML & Css Skill
+A simple static responsive website, Shows my HTML & Css Skill.
 
 ## [Live Demo](https://camping-web.alitadayoni.com)
 
